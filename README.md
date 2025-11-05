@@ -1,6 +1,6 @@
 # QA Web Automation (Selenium + pytest)
 
-Runs UI tests against a local login page at `http://127.0.0.1:5500/index.html`.
+Runs UI tests against a local login page in my local server.
 
 ## Setup
 ```bash
